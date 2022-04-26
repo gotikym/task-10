@@ -7,7 +7,7 @@ internal class Program
 
         while (Console.ReadLine() != "exit")
         {
-            Console.WriteLine("You won't g*e*t out unt*i*l you guess *t*he stop word!!*x*!!");
+            Console.WriteLine("you won't gEt out untIl you guess The stop word!!X!!");
         }
     }
 }
